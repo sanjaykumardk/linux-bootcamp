@@ -1,0 +1,70 @@
+Challenges - The Linux Terminal
+How to solve these challenges:
+
+To be consistent with the filenames and paths run the commands on Ubuntu
+
+Write your solution in a terminal and test it.
+
+If your solution is not correct, then try to understand the error messages, watch the video again, rewrite the solution, and test it again. Repeat this step until you get the correct solution.
+
+Save the solution in a file for future reference or recap.
+
+
+
+Challenge #1
+
+Run the following command both as a non-privileged user and as root: tail /etc/shadow
+
+Use the TAB key for auto-completion.
+
+Are you stuck? Do you want to see the solution to this challenge? Click here.
+
+
+
+Challenge #2
+
+Become root temporarily in a terminal.
+
+Run the following command as root: apt update && apt install nmap
+
+Logout root from the terminal using a keyboard shortcut
+
+Are you stuck? Do you want to see the solution to this challenge? Click here.
+
+
+
+Challenge #3
+
+Change (set) the root password
+
+Become root in a terminal by running the su command
+
+Run as root the following command: lshw
+
+Are you stuck? Do you want to see the solution to this challenge? Click here.
+
+
+
+Challenge #4
+
+Consider the nmap program installed in a previous challenge. Open its man page and search for the option -sV
+
+Run as root: nmap -sV -p 80 www.example.com
+
+Find the IP address of your Default Gateway running route -n and then run as root: nmap -sV -p 80,443 default_gateway_ip (Example: nmap -sV -p 80,443 192.168.0.1)
+
+Are you stuck? Do you want to see the solution to this challenge? Click here.
+
+
+
+Challenge #5
+
+Display the user’s history
+
+Remove line no. 4 from the history
+
+Run a command without being recorded in history. Check that it wasn’t saved in the shell history.
+
+Remove the entire history.
+
+Are you stuck? Do you want to see the solution to this challenge?? Click here.
