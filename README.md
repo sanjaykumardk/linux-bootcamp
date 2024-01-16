@@ -1,5 +1,5 @@
 # linux-bootcamp
-Linux Bootcamp Repository
+
 Welcome to the Linux Bootcamp repository! 🐧🚀
 
 Overview:
