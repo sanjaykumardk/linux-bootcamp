@@ -4,6 +4,137 @@ Welcome to the Linux Bootcamp repository! 🐧🚀
 
 Overview:
 This repository serves as a comprehensive resource for individuals looking to dive deep into the world of Linux. Whether you're a beginner or an experienced user seeking to enhance your skills, this bootcamp is designed to provide hands-on experience and practical knowledge to navigate the Linux operating system with confidence.
+The topics covered in this Linux Administration course are:
+
+    Setting Up the Environment (Installing both Ubuntu and CentOS)
+
+    The Linux Terminal In Depth
+
+    The Linux File System
+
+    Absolute vs. Relative Paths. Walking through the File System (pwd, cd, tree)
+
+    The LS Command In-Depth (ls)
+
+    Understanding File Timestamps: atime, mtime, ctime (stat, touch, date)
+
+    Viewing Files (cat, less, more, tail, head, watch)
+
+    Creating Files and Directories (touch, mkdir)
+
+    Copying, Moving, Renaming, and Deleting Files and Directories (cp, mv, rm, shred)
+
+    Working With Pipes in Linux (|, wc)
+
+    Command Redirection (>, >>, 2> &>, cut, tee)
+
+    Finding Files and Directories (locate, find, which)
+
+    Find and Exec
+
+    Searching for String Patterns (grep, strings)
+
+    Comparing Files (cmp, diff, sha256)
+
+    The VIM Editor In Depth
+
+    Compressing and Archiving Files and Directories (tar, gzip, bzip2)
+
+    Hard and Symbolic Links. The Inode Structure
+
+
+    User Accounts Management
+
+    Understanding passwd and shadow files
+
+    Understanding Linux Groups (groups, id)
+
+    Creating, Changing, and Removing User Accounts User Accounts (useradd, usermod, userdel)
+
+    Group Management (groupadd, groupdel, groupmod)
+
+    User Account Monitoring (whoami, who am i, who, id, w, uptime, last)
+
+    Linux File Permissions
+
+    Octal (Numeric) Notation of File Permissions
+
+    Changing File Permissions (chmod)
+
+    Changing File Ownership (chown, chgrp)
+
+    Understanding SUID (Set User ID), SGID (Set Group ID), and the Sticky Bit
+
+    Umask
+
+    Understanding Files Attributes (lsattr, chattr)
+
+    Linux Process Management
+
+    Processes and The Linux Security Model
+
+    Listing Processes (ps, pstree, top, htop)
+
+    Signals and Killing Processes (kill, pkill, killall, pidof)
+
+    Foreground and Background Processes
+
+    Job Control (jobs, fg, bg)
+
+    Networking on Linux
+
+    Getting Information and configuring the Network Interfaces (ip, ifconfig, route)
+
+    Setting Up Static IP on Ubuntu (netplan)
+
+    Testing and Troubleshooting Network Connectivity
+
+    Using, Troubleshooting, and Securing SSH (sshd)
+
+    Copying Files Over the Network (scp)
+
+    Synchronizing Files and Directories using rsync
+
+    Using wget
+
+    Checking for Listening Ports (netstat, ss, lsof, telnet, nmap)
+
+    Software Management
+
+    DPKG (Debian and Ubuntu Based Distros) and APT
+
+    DNF (RedHat-Based Distros)
+
+    Compiling Software From Source Code: Lab ProFTPD
+
+    Linux System Administration
+
+    Task Automation and Scheduling Using Cron (crontab) and Anacron
+
+    Mounting and Unmounting File Systems (df, mount, umount, fdisk, gparted)
+
+    Working With Device Files (dd)
+
+    Getting System Hardware Information (lwhw, lscpu, lsusb, lspci, dmidecode, hdparm)
+
+    Service Management (systemd and systemctl)
+
+
+    Using AI and Natural Language to Administer Linux Systems (OpenAI, ChatGPT & ShellGPT)
+
+    Installing and Configuring ShellGPT
+
+    Using ShellGPT like a PRO
+
+    The Chat Feature of ShellGPT
+
+    Bash Shell Scripting
+
+    Security: Information Gathering and Sniffing Traffic
+
+    Security: Netfilter/Iptables Firewall
+
+    Security: SSH PKI & SSH Hardening
 
 What's Included:
 Foundational Concepts: Understand the core principles and philosophy behind Linux, along with an exploration of various Linux distributions.
